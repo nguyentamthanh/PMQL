@@ -47,7 +47,7 @@ namespace bai1
             }
             txtTongChan.Text = tongchan.ToString();
             txtTongle.Text = tongle.ToString();
-            //tính ttoongr
+            //tính TONG
         }
     }
 }
