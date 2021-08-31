@@ -39,7 +39,7 @@ namespace bai1
             {
                 
                 tongchan = tongchan + iNhap;
-              
+         
             }    
             else
             {
@@ -47,7 +47,7 @@ namespace bai1
             }
             txtTongChan.Text = tongchan.ToString();
             txtTongle.Text = tongle.ToString();
-            //tính TONG
+            //tính tổng abc
         }
     }
 }
